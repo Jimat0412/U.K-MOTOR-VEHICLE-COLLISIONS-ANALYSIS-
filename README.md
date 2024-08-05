@@ -15,6 +15,7 @@
 
 ### Project Overview 
 
+---
 The primary goal of this project is to analyze traffic accident data to identify patterns, high-risk areas, and contributing factors. This analysis aims to provide insights that can help improve road safety and reduce the number of accidents.
 
 ![10373829_chopper-crash](https://github.com/user-attachments/assets/90284e27-9868-4d55-ad1d-e7211d4afd66)
