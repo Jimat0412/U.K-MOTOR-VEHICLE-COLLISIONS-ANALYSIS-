@@ -12,6 +12,7 @@
 - [Recommendation](#recommendation)
 - [Limitations](#limitations)
 - [References](#references)
+- [Conclusion](#conclusion)
 
 ### Project Overview 
 
@@ -98,6 +99,10 @@ A significant number of accidents have unspecified contributing factors, which l
 
 - City of New York. (n.d.). Motor Vehicle Collisions. Retrieved from 
   - [NYC Open Data](http://www.nyc.gov/html/nypd/html/traffic_reports/motor_vehicle_collision_data.shtml)
+ 
+### Conclusion
+
+This project was an incredible learning experience in using MySQL for data analysis. It provided valuable insights into traffic accidents and highlighted areas for improving road safety. I look forward to applying these skills to more complex datasets and contributing to data-driven decision-making processes.
  
 
 
